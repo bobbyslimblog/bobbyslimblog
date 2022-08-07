@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @bobbyslimblog
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning fronted dev
-- 💞️ I’m looking to collaborate on like mind.
+- 👀 I’m interested in meeting the community.
+- 🌱 I’m currently learning fronted dev.
+- 💞️ I’m looking to collaborate on new projects that will improve my ability.
